@@ -38,8 +38,7 @@ As a user of the application,you will be able to :
 * CSS - which was used to style the User Interface.
 * JavaScript (JS) - was used to make the page responsive
 [Go Back to the top](#Palindrome-Checker)
-## Instructions
-* please fill in all details
+
 ## Licence
 This project is licensed under the terms of the MIT license
 [Go Back to the top](#Palindrome-Checker)
