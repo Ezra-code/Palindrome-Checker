@@ -26,13 +26,13 @@ As a user of the application,you will be able to :
  * Access to internet
  ### Installation Process
  ****
-* Clone to the repo : git clone https://github.com/Ezra-code/years-to-days Board
+* Clone to the repo : git clone https://github.com/Ezra-code/Palindrome-Checker
 * Unzip the downloaded files in a folder of choice.
 * Open the index file from the zipped file with any browser.
  ****
  [Go Back to the top](#Palindrome-Checker)
 ### Live Link
-- Click this link to view the live application https://ezra-code.github.io/years-to-days/
+- Click this link to view the live application https://ezra-code.github.io/Palindrome-Checker/
 ### Technology  Used
 * HTML - which was used to develope the structure off the pages.
 * CSS - which was used to style the User Interface.
